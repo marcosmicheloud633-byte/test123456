@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.5.198.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1766194074662
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766194550015
+  login: 1766193969439
+money: '0'
+last-account-name: Marcosam3000
+logoutlocation:
+  world: 5ed0f48a-fd5c-441e-a1dc-cd43cbeeee7a
+  world-name: world_nether
+  x: 136.11732049816348
+  y: 63.0
+  z: -189.69902420995848
+  yaw: -88.50927734375
+  pitch: 38.84955596923828
+homes:
+  home:
+    world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+    world-name: world
+    x: -8139.630052439619
+    y: 71.0
+    z: -8444.625947237646
+    yaw: 16.188140869140625
+    pitch: 12.45036792755127
+lastlocation:
+  world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+  world-name: world
+  x: -8140.562842965687
+  y: 71.0
+  z: -8443.699999988079
+  yaw: -121.8120346069336
+  pitch: 11.550297737121582

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.209.152.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1765820609602
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1765820637059
+  login: 1765816987005
+money: '0'
+last-account-name: detonaabuelas77
+lastlocation:
+  world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+  world-name: world
+  x: -3579.487603758104
+  y: -55.48434323549026
+  z: -4257.435044327156
+  yaw: 139.6390380859375
+  pitch: 70.19999694824219
+logoutlocation:
+  world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+  world-name: world
+  x: -3593.300000011921
+  y: -8.031636213492487
+  z: -4240.487500011921
+  yaw: 21.4501953125
+  pitch: 36.75004196166992

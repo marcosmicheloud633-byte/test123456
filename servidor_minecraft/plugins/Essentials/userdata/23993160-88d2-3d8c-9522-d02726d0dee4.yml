@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.100.230.233
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1765908702534
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1765910752241
+  login: 1765905371126
+money: '0'
+last-account-name: yShoba
+lastlocation:
+  world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+  world-name: world
+  x: -8112.6879744692305
+  y: 68.0
+  z: -8367.70128078575
+  yaw: 155.38018798828125
+  pitch: 22.65016746520996
+homes:
+  home:
+    world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+    world-name: world
+    x: 2770.438111597055
+    y: 71.0
+    z: -1549.0987841364786
+    yaw: 37.183349609375
+    pitch: 4.500646114349365
+logoutlocation:
+  world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+  world-name: world
+  x: 2768.353581535679
+  y: 72.0
+  z: -1548.0789252554673
+  yaw: 20.3876953125
+  pitch: 17.857784271240234

@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.116.233.78
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1766169526779
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1766194346418
+  login: 1766194152446
+money: '0'
+last-account-name: LuKaG2
+logoutlocation:
+  world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+  world-name: world
+  x: 161.19846244660883
+  y: 63.0
+  z: -697.001009852919
+  yaw: 65.78470611572266
+  pitch: 37.697906494140625
+lastlocation:
+  world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+  world-name: world
+  x: -8152.02318316961
+  y: 70.0
+  z: -8448.257946679802
+  yaw: -82.61978149414062
+  pitch: 9.350652694702148
+homes:
+  home:
+    world: fd3c66cf-499f-4f1f-8e1e-7c9ed8791a18
+    world-name: world
+    x: 2754.7881242432777
+    y: 71.0
+    z: -1533.1701010391755
+    yaw: -174.2177734375
+    pitch: 14.400192260742188
